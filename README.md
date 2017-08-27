@@ -1,4 +1,4 @@
-# _Drum Kick -
+# Drum Kick
 
 #### By **Dylan Dills**
 
@@ -29,7 +29,7 @@ OR...
 
 ## Support and contact details
 
-* Feel free to reach out with suggestions to connorlarsen@gmail.com
+* Feel free to reach out with suggestions to dylan.dills@gmail.com
 
 ## Technologies Used
 
